@@ -156,6 +156,7 @@ hi phpClassExtends      ctermfg=150     ctermbg=NONE    cterm=NONE      guifg=#A
 hi phpClassImplements   ctermfg=150     ctermbg=NONE    cterm=NONE      guifg=#AFD787       guibg=NONE      gui=NONE
 hi phpCommentStar       ctermfg=240     ctermbg=NONE    cterm=NONE      guifg=#585858       guibg=NONE      gui=NONE
 hi phpCommentTitle      ctermfg=240     ctermbg=NONE    cterm=NONE      guifg=#585858       guibg=NONE      gui=NONE
+hi phpDefine            ctermfg=140     ctermbg=NONE    cterm=NONE      guifg=#AF87D7       guiBG=NONE      gui=NONE
 hi phpDocComment        ctermfg=240     ctermbg=NONE    cterm=NONE      guifg=#585858       guibg=NONE      gui=NONE
 hi phpDocIdentifier     ctermfg=240     ctermbg=NONE    cterm=NONE      guifg=#585858       guibg=NONE      gui=NONE
 hi phpDocParam          ctermfg=240     ctermbg=NONE    cterm=NONE      guifg=#585858       guibg=NONE      gui=NONE
